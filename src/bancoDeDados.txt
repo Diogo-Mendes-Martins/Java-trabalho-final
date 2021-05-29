@@ -1,0 +1,12 @@
+Gustavo;Jochem;14828301755;Cliente;25665442;1
+Lucas;De Alcantara;14828301756;Cliente;pizza;2
+Matheus;Probst;14828301757;Funcionario;arroz;Presidente;5000;0;3
+Charles;Theobald;14828301758;Funcionario;123456;Diretor;5000;4
+Diogo;Mendes;14828301759;Funcionario;123456;Gerente;5000;3;1;5
+Paulin;Bacana;14828301760;Cliente;senha;6
+1;1;10000;Corrente;Gustavo Jochem;14828301755
+2;1;20000;Poupanca;Lucas De Alcântara;14828301756
+3;1;69000;Corrente;Matheus Probst;14828301757
+4;1;69000;Poupanca;Charles Theobald;14828301758
+5;1;14000;Corrente;Diogo Mendes;14828301759
+6;1;32;Poupanca;Paulin Bacana;14828301760
